@@ -17,8 +17,8 @@ Application Programming at University of Galway.
 - File I/O for persistent stock and transaction storage
 - Arrays and Lists for data structures
 
-## Screenshots
-[Add screenshots of your app here]
+
+
 
 ## How to Run
 1. Clone the repository
